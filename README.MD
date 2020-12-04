@@ -1,6 +1,6 @@
 # Warriors Pack
 
-### A perfect resource pack based on Faithful textures for Minecraft
+### A perfect resource pack based on Faithful textures for Minecraft.
 
 # Installation
 
@@ -10,23 +10,23 @@
 
 # Features
 
-#### -Low fire
+-   Low fire
 
-#### -Dark GUI
+-   Dark GUI
 
-#### -Low shield
+-   Low shield
 
-#### -Highlighted ores
+-   Highlighted ores
 
-#### -No pumpkin blur
+-   No pumpkin blur
 
-#### -Directional hoppers
+-   Directional hoppers
 
-#### -Clean wither hearts
+-   Clean wither hearts
 
-#### -Better terracotta colors
+-   Better terracotta colors
 
-#### -Many other usefull features
+-   Many other usefull features
 
 # Credits
 
