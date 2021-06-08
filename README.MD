@@ -1,12 +1,12 @@
 # Warriors Pack
 
-A perfect resource pack based on Faithful textures for Minecraft.
+A perfect resource pack based on Faithful textures for Minecraft
 
 ## Installation
 
-Just place the zip file you downloaded in your resourcepacks folder.
+Just place the zip file you downloaded in your resourcepacks folder
 
-For the best expreience set the graphics to fast.
+IMPORTANT: For the best expreience set the graphics to fancy or fabulous
 
 ## Features
 
@@ -32,4 +32,4 @@ For the best expreience set the graphics to fast.
 
 Created by: Levminer
 
-Tested by: andzerneSKY, sagiakos
+Tested by: 15kostamad, andzerneSKY, sagiakos
